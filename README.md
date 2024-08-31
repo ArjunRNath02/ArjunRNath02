@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning and Cybersecurity
 - 💞️ I’m looking to collaborate on Android Develpment projects
 - 📫 How to reach me @Whatsapp 7907778747
-- ⚡ Fun fact: Currently an enginerring student
+- ⚡ Fun fact: Currently an Engineering student
 
 <!---
 ArjunRNath02/ArjunRNath02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
